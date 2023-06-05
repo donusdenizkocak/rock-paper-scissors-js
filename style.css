@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.tas, .kagit, .makas{
+    width: 100%;
+    height: 100%;
+   object-fit: cover;
+   
+  
+}
+.secenek{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 20px;
+   
+}
+.user, .computer, .sayac{
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 20px;
+}
+.header{
+    text-align: center;
+    margin: 50px;
+}
+.contnr{
+    text-align: center;
+}
